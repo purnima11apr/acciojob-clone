@@ -94,15 +94,12 @@ header {
   font-family: "ABeeZee", sans-serif;
   font-size: 32px;
   font-style: italic;
-  font-weight: 400;
-  line-height: 48px;
-  letter-spacing: -0.015em;
   text-align: center;
 }
 
-.my-card > p {
-  font: Inter;
-  weight: 400;
+.my-card>p {
+  font: "Inter",sans-serif;
+  font-weight: 400;
   size: 14px;
   line-height: 21px;
   text-align: center;
